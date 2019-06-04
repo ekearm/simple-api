@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "groceries"
+    },
+    {
+      "_id": 2,
+      "name": "animals"
+    },
+    {
+      "name": "coding",
+      "_id": 3
+    },
+    {
+      "name": "games",
+      "_id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "apples",
+      "category_id": 1,
+      "_id": 1
+    },
+    {
+        "name": "Pomello",
+        "category_id": 1,
+        "_id": 2
+    },
+    {
+        "name": "Platapus",
+        "category_id": 2,
+        "_id": 3
+    },
+    {
+        "name": "Badger",
+        "category_id": 2,
+        "_id": 4
+    },
+    {
+        "name": "JavaScript",
+        "category_id": 3,
+        "_id": 5
+    },
+    {
+        "name": "C",
+        "category_id": 3,
+        "_id": 6
+    }
+  ]
+}

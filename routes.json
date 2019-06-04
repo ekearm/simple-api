@@ -1,0 +1,6 @@
+{
+    "/simpe_api/categories": "/$1",
+    "/simpe_api/categories/:id": "/$1/$2",
+    "/simpe_api/products": "/$1",
+	"/simpe_api/products/:id": "/$1/$2"
+}
